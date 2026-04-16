@@ -1,0 +1,13 @@
+uuid,event_id,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
+"56ca38d4-aef4-451b-bc86-4bb09062e56a",4,"Artifacts dropped","md5","78450806e56b1f224d00455efcd04ce3","",1,1456093396,"","","","",""
+"56ca38d5-5c24-41b9-8b26-4c0f9062e56a",4,"Network activity","domain","ore.net","",0,1466509541,"","","","",""
+"56ca38d6-bc14-46d8-8715-421e9062e56a",4,"Network activity","domain","er.com","",0,1466509560,"","","","",""
+"56ca38d9-1d80-4994-bb9a-4bad9062e56a",4,"Network activity","domain","vw.com","",0,1466509554,"","","","",""
+"56ca38db-b0d0-4fbd-8af1-4b549062e56a",4,"Network activity","domain","ter.info","",0,1466509550,"","","","",""
+"56ca38dc-c760-4bd4-9150-42fb9062e56a",4,"Network activity","domain","te.info","",0,1466509545,"","","","",""
+"56ca38dd-5ebc-40b6-bc20-4c109062e56a",4,"Artifacts dropped","regkey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer","",0,1466509502,"","","","",""
+"56ca38de-2bc8-41e5-aba7-4bb19062e56a",4,"Artifacts dropped","md5","075b6695ab63f36af65f7ffd45cccd39","",1,1456093406,"","","","",""
+"56ca38df-d7c4-489f-9113-4bb09062e56a",4,"Artifacts dropped","md5","f3bf929a35c3f198226b88537d9ccb1a","",1,1456093407,"","","","",""
+"56ca38e0-7208-45cc-87df-4c0f9062e56a",4,"Artifacts dropped","md5","2683624eacc490238e98c449bddbb573","",1,1456093408,"","","","",""
+"56ca38e1-6608-4a8b-ba1f-421e9062e56a",4,"Artifacts dropped","md5","5bf524a4860f3c33e3ad77b6b625db37","",1,1456093409,"","","","",""
+

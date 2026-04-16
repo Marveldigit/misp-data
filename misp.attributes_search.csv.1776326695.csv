@@ -1,0 +1,4 @@
+uuid,event_id,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
+"56ca40e5-c3ec-4d0a-b71a-4bb1c0a8ab16",5,"Artifacts dropped","sha1","03aa8d8bfdf54bf390b03d1886e34c71865592ea","",1,1456095461,"","","","",""
+"56ca40f6-fb20-4486-b143-4c0fc0a8ab16",5,"Artifacts dropped","filename","hack facebook.exe","",1,1456095478,"","","","",""
+
